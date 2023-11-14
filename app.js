@@ -14,6 +14,10 @@ function exibirMensagemInicial() {
     exibirTextoNaTela('p', 'Escolha um número entre 1 e 10');
 }
 
+function Anime() {
+    console.log('NARUTO')
+}
+
 exibirMensagemInicial();
 
 function verificarChute() {
