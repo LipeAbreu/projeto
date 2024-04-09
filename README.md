@@ -12,6 +12,7 @@
 
 // Código omitido. 
 
-# TIME
-[<img loading="lazy" src='https:"https://avatars" width=115><br><sub>Sortudo0714</sub>](https://github.com/LipeAbreu) |  [<img loading="lazy" src="https://avatars. width"=115><br><sub>Felipe Abreu</sub>](https://github.com/LipeAbreu) |
+# Time
+
+| [<img loading="lazy" src="https://" width=115><br><sub>Felipe Souza Abreu</sub>](https://github.com/LipeAbreu) |  [<img loading="lazy" src="https://" width=115><br><sub>X</sub>](https://github.com/) |
 | :---: | :---: |
