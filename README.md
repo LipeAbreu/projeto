@@ -11,3 +11,7 @@
 </div>
 
 // Código omitido. 
+
+# TIME
+[<img loading="lazy" src="https://avatars.  width=115><br><sub>Sortudo0714</sub> ] |  [<img loading="lazy" src="https://avatars. width=115><br><sub>Felipe Abreu</sub>] |
+| :---: | :---: |
